@@ -129,7 +129,7 @@ public static void main(String[] args) {
 }
 ```
 
-![](./img/ui.png)
+![](img/ui.png)
 
 ## 源码结构
 
