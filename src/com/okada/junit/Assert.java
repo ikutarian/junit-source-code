@@ -8,7 +8,7 @@ public class Assert {
         }
     }
 
-    public static void assertEquals(String message, boolean condition) throws AssertionFailedError {
+    public static void assertEquals(String message, boolean condition) {
         if (!condition) {
             throw new AssertionFailedError(message);
         }
